@@ -1,0 +1,11 @@
+05/08/26 - Boas Vindas
+12/08/26 - Apresentação
+19/08/26 - Contexto Eng. Software
+26/08/26 - Trabalho / Estrutura de Projeto / FASES
+02/09/26 - RF/RNF/DIAGRAMA DE CONTEXTO/DFD
+30/09/26 - SIM1
+14/10/26 -  MODELAGEM/DER - BRMODELO
+28/10/26 - TESTES/ENG. REVERSE
+11/11/26 - SIM2
+25/11/26 - AV
+02/12/26 - AVS
