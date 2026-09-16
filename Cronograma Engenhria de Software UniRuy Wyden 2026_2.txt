@@ -3,7 +3,9 @@
 19/08/26 - Contexto Eng. Software
 26/08/26 - Trabalho / Estrutura de Projeto / FASES
 02/09/26 - RF/RNF/DIAGRAMA DE CONTEXTO/DFD
-30/09/26 - SIM1
+16/09/26 - Atributos de Qualidade / Ger, de Configuração / Revisão SIM 1
+23/09/26 - SIM 1
+30/09/26 - Modelagem MER/DER
 14/10/26 -  MODELAGEM/DER - BRMODELO
 28/10/26 - TESTES/ENG. REVERSE
 11/11/26 - SIM2

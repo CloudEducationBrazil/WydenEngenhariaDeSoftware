@@ -1,0 +1,25 @@
+Engenharia de Software: sair da aplicação comercial/CRUD e focar em softwares funcionais, simuladores, analisadores e problemas computacionais.
+
+"Laboratório Virtual de Engenharia de Software"
+
+No lugar de criar um sistema comercial, cada grupo cria um simulador ou ferramenta técnica.
+
+Exemplo:
+
+Grupo	Projeto
+1	Simulador de elevadores
+2	Simulador de trânsito
+3	Simulador de fábrica
+4	Analisador de código
+5	Simulador de CPU
+6	Simulador de redes
+7	Analisador de anomalias
+8	Planejador de rotas
+
+Regra:
+
+"O projeto não pode ser um CRUD de negócio."
+
+"Qual problema computacional eu vou resolver?"
+
+Engenharia de Software não é sinônimo de desenvolvimento de sistemas administrativos/web.
