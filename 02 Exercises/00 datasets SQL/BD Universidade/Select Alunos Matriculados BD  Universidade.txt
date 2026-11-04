@@ -1,0 +1,9 @@
+SELECT
+    a.nome AS aluno,
+    d.nome AS disciplina,
+    m.data_matricula
+FROM matriculas m
+INNER JOIN alunos a
+    ON m.id_aluno = a.id_aluno
+INNER JOIN disciplinas d
+    ON m.id_disciplina = d.id_disciplina;

@@ -1,0 +1,35 @@
+CREATE DATABASE universidade;
+
+USE universidade;
+
+-- Tabela de alunos
+CREATE TABLE IF NOT EXISTS alunos (
+    id_aluno INT AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100),
+    PRIMARY KEY (id_aluno)
+);
+
+-- Tabela de disciplinas
+CREATE TABLE IF NOT EXISTS disciplinas (
+    id_disciplina INT AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    PRIMARY KEY (id_disciplina)
+);
+
+-- Tabela associativa (Matrículas)
+CREATE TABLE IF NOT EXISTS matriculas (
+    id_aluno INT,
+    id_disciplina INT,
+    data_matricula DATE,
+
+    PRIMARY KEY (id_aluno, id_disciplina),
+
+    FOREIGN KEY (id_aluno)
+        REFERENCES alunos(id_aluno)
+        ON DELETE CASCADE,
+
+    FOREIGN KEY (id_disciplina)
+        REFERENCES disciplinas(id_disciplina)
+        ON DELETE CASCADE
+);
