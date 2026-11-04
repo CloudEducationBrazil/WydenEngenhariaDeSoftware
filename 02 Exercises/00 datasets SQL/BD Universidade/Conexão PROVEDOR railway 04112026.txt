@@ -1,0 +1,17 @@
+railway
+
+roundhouse.proxy.rlwy.net
+:
+24699
+
+mysql://
+root
+:
+XQAVGbKvMUEiYgfUJwcEpuNywiZFfZjx
+@
+
+roundhouse.proxy.rlwy.net
+:
+24699
+/
+railway
